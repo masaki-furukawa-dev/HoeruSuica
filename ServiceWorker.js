@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-SuicaGame-1.0";
 const contentToCache = [
     "Build/index.loader.js",
-    "Build/index.framework.js.unityweb",
-    "Build/index.data.unityweb",
-    "Build/index.wasm.unityweb",
+    "Build/ba54b8f000c10f641682113a025d3a22.js.unityweb",
+    "Build/e777ccbb90dddade4503ec4d00450c2e.data.unityweb",
+    "Build/861f4f77ff64bbda818e4761c6fefdba.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
